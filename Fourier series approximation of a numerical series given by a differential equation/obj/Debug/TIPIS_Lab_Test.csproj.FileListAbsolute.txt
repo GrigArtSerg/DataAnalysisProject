@@ -1,0 +1,23 @@
+G:\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.csprojAssemblyReference.cache
+G:\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.Properties.Resources.resources
+G:\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.csproj.GenerateResource.cache
+G:\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.csproj.CoreCompileInputs.cache
+G:\Artem\Программирование\TIPIS_Lab_Test\bin\Debug\TIPIS_Lab_Test.exe.config
+G:\Artem\Программирование\TIPIS_Lab_Test\bin\Debug\TIPIS_Lab_Test.exe
+G:\Artem\Программирование\TIPIS_Lab_Test\bin\Debug\TIPIS_Lab_Test.pdb
+G:\Artem\Программирование\TIPIS_Lab_Test\bin\Debug\ZedGraph.dll
+G:\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_4_5.Form1.resources
+G:\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.csproj.CopyComplete
+G:\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.exe
+G:\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.pdb
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_Test\bin\Debug\TIPIS_Lab_Test.exe.config
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_Test\bin\Debug\TIPIS_Lab_Test.exe
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_Test\bin\Debug\TIPIS_Lab_Test.pdb
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.csprojAssemblyReference.cache
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_4_5.Form1.resources
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.Properties.Resources.resources
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.csproj.GenerateResource.cache
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.csproj.CoreCompileInputs.cache
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.csproj.CopyComplete
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.exe
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_Test\obj\Debug\TIPIS_Lab_Test.pdb

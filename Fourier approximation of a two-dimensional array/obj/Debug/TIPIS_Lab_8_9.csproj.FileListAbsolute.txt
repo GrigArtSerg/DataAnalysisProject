@@ -1,0 +1,296 @@
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\TIPIS_Lab_8_9.exe.config
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\TIPIS_Lab_8_9.exe
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\TIPIS_Lab_8_9.pdb
+G:\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.csprojAssemblyReference.cache
+G:\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.Form1.resources
+G:\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.Properties.Resources.resources
+G:\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.csproj.GenerateResource.cache
+G:\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.csproj.CoreCompileInputs.cache
+G:\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.exe
+G:\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.pdb
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.WebSockets.Protocol.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Host.Client.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Host.Protocol.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Interpreters.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Newtonsoft.Json.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Threading.Tasks.Dataflow.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\libuv.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Cors.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Http.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Localization.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Razor.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Routing.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Server.WebListener.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.WebSockets.Server.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.CodeAnalysis.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.DotNet.InternalAbstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Localization.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Options.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Languages.Core.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Net.Http.Headers.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Net.Http.Server.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Core.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.AppContext.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Buffers.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Collections.Immutable.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.ComponentModel.Primitives.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Composition.AttributedModel.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Composition.Convention.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Composition.Hosting.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Composition.Runtime.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Composition.TypedParts.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Console.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.IO.FileSystem.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Numerics.Vectors.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Reflection.Metadata.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Text.Encoding.CodePages.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Text.Encodings.Web.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Threading.Thread.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Xml.XmlDocument.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Xml.XPath.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\zip.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\zlib.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Host.Broker.exe
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Host.exe
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\breakpoints.R
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\completions.R
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\eval.R
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\graphics.R
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\grid.R
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\help.R
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\mirror.R
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\overrides.R
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\packages.R
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\repr.R
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\traceback.R
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\util.R
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\man\fetch_file.Rd
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\rtvs
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\DESCRIPTION
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\NAMESPACE
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Common.Core.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Host.Client.API.dll
+G:\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Host.Client.API.xml
+G:\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.csproj.CopyComplete
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\libuv.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Cors.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Http.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Localization.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Razor.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Routing.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.Server.WebListener.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.WebSockets.Protocol.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.WebSockets.Server.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.CodeAnalysis.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.DotNet.InternalAbstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Localization.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Languages.Core.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.Net.Http.Server.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Core.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Host.Client.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Host.Protocol.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Interpreters.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Newtonsoft.Json.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.AppContext.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Buffers.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Collections.Immutable.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Composition.AttributedModel.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Composition.Convention.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Composition.Hosting.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Composition.Runtime.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Composition.TypedParts.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Console.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.IO.FileSystem.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Numerics.Vectors.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Reflection.Metadata.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Text.Encodings.Web.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Threading.Thread.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Xml.XmlDocument.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Xml.XPath.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\zip.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\zlib.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Host.Broker.exe
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Host.exe
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\breakpoints.R
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\completions.R
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\eval.R
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\graphics.R
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\grid.R
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\help.R
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\mirror.R
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\overrides.R
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\packages.R
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\repr.R
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\traceback.R
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\util.R
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\man\fetch_file.Rd
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\R\rtvs
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\DESCRIPTION
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\rtvs\NAMESPACE
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\TIPIS_Lab_8_9.exe.config
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\TIPIS_Lab_8_9.exe
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\TIPIS_Lab_8_9.pdb
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Common.Core.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Host.Client.API.dll
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\bin\Debug\Microsoft.R.Host.Client.API.xml
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.csprojAssemblyReference.cache
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.Form1.resources
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.Properties.Resources.resources
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.csproj.GenerateResource.cache
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.csproj.CoreCompileInputs.cache
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.csproj.CopyComplete
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.exe
+F:\Archaic Tome Folder\Artem\Программирование\TIPIS_Lab_8_9\obj\Debug\TIPIS_Lab_8_9.pdb
